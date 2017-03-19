@@ -1,0 +1,170 @@
+body{
+background-color:#441E13;
+color:white;
+}
+
+
+.logo {
+width: 200px;
+font-size: 2.5rem;
+font-weight: bold;
+float: left;
+}
+
+
+.slogan {
+width: 300px;
+float:left;
+margin-top: 15px;
+font-family: sans-serif;
+font-size: 0.9rem;
+color:#A37B71;
+}
+
+.logoContainer {
+overflow:hidden;
+max-width:920px;
+margin-left:auto;
+margin-right:auto;
+}
+
+.nav {
+width:920px;
+height:50px;
+margin-left: auto;
+margin-right: auto;
+background-color: rgba(0,0,0, 0.25);
+padding: 0px 10px;
+padding-top: 18px;
+}
+
+.nav li {
+display:block;
+float:left;
+font-family: sans-serif;
+padding:6px 20px;
+border-right: 1px solid #D4B364;
+}
+
+
+.nav li:last-child{
+border-right: none;
+}
+
+
+.about {
+color:#white;
+float:left;
+font-size: 3rem;
+font-weight: bold;
+background-color: #87A984;
+margin-top: auto;
+font-family: serif;
+padding-left:235px;
+padding-right:546px;
+padding-top:45px;
+}
+
+.aboutcontainer {
+width: 920px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 7px;
+
+}
+
+
+.moreabout {
+background-color:#87A984;
+float:left;
+width:450px;
+font-size: 0.9rem;
+font-family: sans-serif;
+font-weight: lighter;
+padding-left:235px;
+padding-right:235px;
+padding-bottom:45px;
+}
+
+.moreaboutcontainer {
+width: 920px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.sidebar {
+background-color:#96afac;
+float:left;
+width:145px;
+color: white;
+font-size: 0.9rem;
+font-family: sans-serif;
+font-weight: bold;
+padding-top: 32px;
+padding-left:25px;
+padding-right:30px;
+padding-bottom:430px;
+margin-top:7px;
+line-height: 2;
+}
+
+.sidebarcontainer {
+width: 920px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.sidebar li {
+float:left;
+display: block;
+font-family: sans-serif;
+padding:6px 1px;
+border-bottom: 1px solid #ffffff ;
+}
+
+.maintitle {
+color:#42707f;
+font-weight: bold;
+font-size: 2rem;
+font-family: sans-serif;
+float: left;
+width: 193px;
+background-color:#DBD8C5;
+padding-top: 40px;
+padding-left: 45px;
+padding-right:482px;
+margin-top: 7px;
+}
+
+
+.maintitlecontainer{
+width: 920px;
+margin-left: auto;
+margin-right: auto;
+padding-top: 7px;
+}
+
+.mainbody {
+background-color: #DBD8C5;
+float: left;
+color: black;
+font-size: 0.8rem;
+font-family: sans-serif;
+width: 620px;
+padding-top: 33px;
+padding-left: 45px;
+padding-right: 55px;
+padding-bottom: 269px;
+line-height: 1.7;
+}
+
+.mainbodycontainer {
+width: 920px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+}
